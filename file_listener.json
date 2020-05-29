@@ -1,0 +1,17 @@
+{
+  "sender": {
+    "server": "smtp.gmail.com",
+    "port": 587,
+    "user": "",
+    "password": ""
+  },
+  "receivers": [
+
+  ],
+  "files": [
+    {
+      "path": "",
+      "last_update": 0
+    }
+  ]
+}
